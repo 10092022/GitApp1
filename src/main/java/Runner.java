@@ -6,5 +6,7 @@ public class Runner {
 
         System.out.println("git add . : satagin areaya alır.");
 
+        // version 4
+        System.out.println("hi");
     }
 }
